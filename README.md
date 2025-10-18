@@ -43,7 +43,7 @@ Our mission is to create a modern, accessible platform that offers convenience f
 - **Email:** douglas_ferreira@edu.unifil.br  
 - **LinkedIn:** [linkedin.com/in/douglasrfferreira](https://linkedin.com/in/douglasrfferreira)  
 - **Instagram:** [@bellivery](https://instagram.com/belliveryy)  
-- **GitHub:** [github.com/douglasrfferreira](https://github.com/douglasrfferreira)
+- **GitHub:** [github.com/douglasrfferreira](www.linkedin.com/in/douglas-rafael-ferreira-681759145)
 
 ---
 
