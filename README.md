@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi there! I'm Douglas Rafael Ferreira
 
-<!--
-**douglasrfferreira/douglasrfferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Academic Background**
+- ✅ Technical degree in **Electrotechnics**
+- 🎓 Completed up to the **7th semester of Production Engineering at Universidade Tecnológica Federal Do Parana - UTFPR**
+- 💻 Currently studying **Software Engineering (3rd semester) at UNIFIL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m passionate about technology, innovation, and entrepreneurship.  
+With a strong technical foundation and experience in engineering processes, I combine analytical thinking with software development to build efficient and scalable solutions.
+
+My current focus is on developing intelligent systems and digital platforms — particularly **web applications**, **Node.js backends**, **React frontends**, and **Firebase integrations**.
+
+---
+
+## 💡 Current Project: **Bellivery**
+
+**Bellivery** is a delivery startup that connects stores and customers, specializing in **cosmetics, fashion, and local retail**.  
+Our mission is to create a modern, accessible platform that offers convenience for both sellers and buyers — featuring intuitive design, secure payments, and location-based services.
+
+📱 **Main Technologies:**
+- **Frontend:** React + Vite + TailwindCSS + shadcn/ui  
+- **Backend:** Node.js + Express  
+- **Database:** Firebase / Firestore  
+- **Integrations:** Google Maps API, Mercado Pago  
+
+---
+
+## 🧠 Interests & Skills
+
+- Software Engineering & System Architecture    
+- Full Stack Web Development  
+- UI/UX Design & Prototyping (Figma)  
+- Entrepreneurship & Tech Innovation  
+
+---
+
+## 📫 Contact
+
+- **Email:** douglas_ferreira@edu.unifil.br  
+- **LinkedIn:** [linkedin.com/in/douglasrfferreira](https://linkedin.com/in/douglasrfferreira)  
+- **Instagram:** [@bellivery](https://instagram.com/belliveryy)  
+- **GitHub:** [github.com/douglasrfferreira](https://github.com/douglasrfferreira)
+
+---
+
+> 💬 _“Technology is more than just code — it’s about turning ideas into solutions that impact lives.”_
+
+
+- 🔭 I’m currently working on Driver apps 
+
+
