@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm Douglas Rafael Ferreira
 
 🎓 **Academic Background**
+- 💻 Currently studying **Software Engineering (3rd semester) at UNIFIL**
 - ✅ Technical degree in **Electrotechnics**
 - 🎓 Completed up to the **7th semester of Production Engineering at Universidade Tecnológica Federal Do Parana - UTFPR**
-- 💻 Currently studying **Software Engineering (3rd semester) at UNIFIL**
 
 ---
 
